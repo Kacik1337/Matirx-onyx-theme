@@ -1,6 +1,5 @@
-
 {
-  "name": "Mattermost Onyx",
+  "name": "Red-theme",
   "is_dark": true,
   "colors": {
     "accent-color": "#4770DE",
@@ -16,11 +15,11 @@
     "timeline-text-color": "#DFE0E4",
     "timeline-text-secondary-color": "#ADAEB0",
     "timeline-highlights-color": "#23241F",
-    "eventbubble-self-bg": "#495963",
-    "eventbubble-others-bg": "#495963",
-    "eventbubble-bg-hover": "#536773",
-    "eventbubble-selected-bg": "#607580",
-    "eventbubble-reply-color": "#495963",
+    "eventbubble-self-bg": "#6B4E53",
+    "eventbubble-others-bg": "#6B4E53",
+    "eventbubble-bg-hover": "#7A5960",
+    "eventbubble-selected-bg": "#8A666D",
+    "eventbubble-reply-color": "#6B4E53",
     "username-colors": [
       "#FFFFFF",
       "#FFFFFF",
